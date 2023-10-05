@@ -1,0 +1,26 @@
+h1{background-color: brown;
+    text-align: center;
+    color: aquamarine;
+}
+h2{text-align: center;
+    text-align: right;
+    text-align: justify;
+}
+img{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    text-decoration: underline;
+}
+ul{
+    list-style: none;
+}
+ul.image-list{
+    list-style-image: url('shutterstock_q2u9Vf8.png');
+}
